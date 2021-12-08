@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS staff;
+DROP TABLE staff;
 
 CREATE TABLE staff (
     id SERIAL PRIMARY KEY,
